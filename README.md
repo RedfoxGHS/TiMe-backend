@@ -1,4 +1,4 @@
-<h1 align="center">TiMe-backend (C012 - Sistemas Operacionais)</h1>
+<h1 align="center">TiMe-backend</h1>
 <h3 align="center">👨‍💻 Em Desenvolvimento 👨‍💻</h3>
 
 
