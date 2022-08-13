@@ -35,3 +35,9 @@ out/
 
 ### VS Code ###
 .vscode/
+
+Goals*
+Goal.java
+User.java
+src/main/java/com/redandmoon/time/thisisme/controller/exceptions/
+src/main/java/com/redandmoon/time/thisisme/repository/RepositoryGoals.java
